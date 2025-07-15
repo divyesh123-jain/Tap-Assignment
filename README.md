@@ -2,8 +2,8 @@
 
 RoadWatch is a modern, interactive web application designed to solve the real-world problem of outdated or inaccessible information about road conditions. It empowers drivers and cyclists with a community-driven platform to report and view issues like potholes, traffic jams, and road debris in real-time.
 
-![RoadWatch Screenshot](placeholder.png) 
-*(A screenshot of the application would go here)*
+![RoadWatch Screenshot](public/image.png)
+
 
 ## The Problem
 
